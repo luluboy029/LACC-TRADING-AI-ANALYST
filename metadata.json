@@ -1,0 +1,6 @@
+{
+  "name": "AI Market Structure & Sentiment Analyzer",
+  "description": "Full-stack crypto market structure analyzer with real-time Binance Futures data, SMC visualizer, sentiment engine, and Gemini AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
